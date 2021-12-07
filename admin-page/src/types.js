@@ -1,0 +1,21 @@
+export const ADD_ADMIN = "ADD_ADMIN";
+
+export const LOGIN_ADMIN = "LOGIN_ADMIN";
+
+export const LOGIN_ERROR_ADMIN = "LOGIN_ERROR_ADMIN";
+
+export const LOGOUT_ADMIN = "LOGOUT_ADMIN";
+
+export const GET_DATA_ADMIN = "GET_DATA_ADMIN";
+
+export const GET_BOOK_ADMIN = "GET_BOOK_ADMIN";
+
+export const GET_PENDING_ADMIN = "GET_PENDING_ADMIN";
+
+export const UPDATE_APPROVE = "UPDATE_APPROVE";
+
+export const UPDATE_REJECT = "UPDATE_REJECT";
+
+export const LOGIN_ERROR_WRONGINPUT_ADMIN = "LOGIN_ERROR_WRONGINPUT_ADMIN";
+
+export const CLEAR_ERROR = "CLEAR_ERROR";
